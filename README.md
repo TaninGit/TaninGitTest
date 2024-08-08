@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ts-A7kNF)
 # Sum Array
 
 ## Write a function that takes an array of numbers and returns the sum of all the numbers. The function should also handle cases where the input might be undefined, null, empty, or not an array as follows:
